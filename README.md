@@ -1,5 +1,7 @@
 # FlexiCache
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nextapps-de/flexicache.svg)](https://greenkeeper.io/)
+
 ### Lightweight auto-balancing cache handler with zero dependencies.
 
 FlexiCache automatically balance caches by expiration time, frequency of data accesses, access timeout, maximum stack size and/or memory limit. 
